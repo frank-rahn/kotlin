@@ -1,0 +1,23 @@
+= Kotlin
+Frank Rahn <frank@frank-rahn.de>
+:toc:
+:toclevels: 3
+:toc-title: Inhaltsverzeichnis
+:toc-placement!:
+:sectanchors:
+
+In diesem Repository befinden sich der Sourcecode zur https://slides.frank-rahn.de/kotlin/?utm_source=github&utm_medium=readme&utm_campaign=kotlin&utm_content=top[Präsentation Kotlin].
+
+image:https://img.shields.io/badge/license-Apache_License_2-blue.svg[title="Apache License 2",alt="Apache License 2",link="https://www.apache.org/licenses/LICENSE-2.0"]
+
+toc::[]
+
+Diese Präsentation befindet sich noch im Aufbau!
+
+== Zugehörige Präsentation
+
+* https://slides.frank-rahn.de/kotlin/?utm_source=github&utm_medium=readme&utm_campaign=kotlin&utm_content=top[Kotlin] bei https://www.frank-rahn.de/?utm_source=github&utm_medium=readme&utm_campaign=kotlin&utm_content=top[Frank W. Rahn]
+
+== Homepage des Autors
+
+https://www.frank-rahn.de/?utm_source=github&utm_medium=readme&utm_campaign=kotlin&utm_content=top[Frank W. Rahn]

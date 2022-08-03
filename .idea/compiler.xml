@@ -5,11 +5,11 @@
       <profile name="Gradle Imported" enabled="true">
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="false">
-          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-configuration-processor/2.5.6/7f643c0b70ca7db84da10c654b3ba54d71cf88e3/spring-boot-configuration-processor-2.5.6.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-configuration-processor/2.7.2/12575686ba3820571ea79bfd08d6d27534b97a0e/spring-boot-configuration-processor-2.7.2.jar" />
         </processorPath>
         <module name="kotlin.main" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="11" />
+    <bytecodeTargetLevel target="17" />
   </component>
 </project>
